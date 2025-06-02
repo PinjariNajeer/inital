@@ -1,0 +1,13 @@
+body {
+  background-color: red;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+p {
+  color: blue;
+  font-weight: bold;
+  font-size: 20px;
+}
